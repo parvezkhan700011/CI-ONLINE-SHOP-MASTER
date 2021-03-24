@@ -1,4 +1,6 @@
-# About Mr Parvez Khan
+####################
+About Mr Parvez Khan
+####################
 
 I' am a Full Stack Developer Php Developer, Codeigniter, Laravel, Wordpress Developer. A php developer mainly with lots of interests and a strong passion to learn.
 Multitasking is my skills and so I managed to gain experience in several different fields, sometimes simultaneously.
@@ -8,7 +10,10 @@ I enjoy coding as much as I enjoy being creative and being a good communicator. 
 I am always looking forward to more sharing, communicating and networking along with finding good career and educational opportunities to be able to continuously evolve and improve.
 Thanks:) 
 
-# Contact Information
+####################
+Contact Information
+####################
+
 - Developer Name: Mr. Parvez Khan
 
 ###################
