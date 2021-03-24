@@ -91,11 +91,10 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 Set up :
 ##########
 
-1. Clone the repo and cd into it
-2. composer install
-7. Import db file(shop.sql) into your database (mysql,sql) Username:root, Password:empty
-11. Visit http://localhost:8080/myprojects/CI-online-shop-master/ and administration 
-http://localhost:8080/myprojects/CI-online-shop-master/admin in your browser
-12. Visit /admin if you want to access the admin panel. Admin Email/Password: admin@gmail.com/1111.
+- Clone the repo and cd into it
+- composer install
+- Import db file(shop.sql) into your database (mysql,sql) Username:root, Password:empty
+- Visit http://localhost:8080/myprojects/CI-online-shop-master/ and administration http://localhost:8080/myprojects/CI-online-shop-master/admin in your browser
+- Visit /admin if you want to access the admin panel. Admin Email/Password: admin@gmail.com/1111.
 
 <p style="text-align:center">Thank You so much for your time !!!</p>
